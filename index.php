@@ -18,7 +18,7 @@
         <nav class="navbar">
             <a href="#home">Home</a>
             <a href="#speciality">Specialty</a>
-            <a href="#popular">foods</a>
+            <a href="dataproduk.php">foods</a>
             <!-- <a href="#gallery">Gallery</a> -->
             <a href="#review">Review</a>
             <a href="#order">Order</a>
@@ -54,6 +54,7 @@
                     <h3>tasty burger</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
                         quisquam nobis distinctio vero eum quod dolores quos.</p>
+                    <a href="order.php" class="btn">order now</a>
                 </div>
             </div>
             <div class="box">
@@ -63,6 +64,7 @@
                     <h3>tasty pizza</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
                         quisquam nobis distinctio vero eum quod dolores quos.</p>
+                    <a href="order.php" class="btn">order now</a>
                 </div>
             </div>
             <div class="box">
@@ -72,6 +74,7 @@
                     <h3>cold ice cream</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
                         quisquam nobis distinctio vero eum quod dolores quos.</p>
+                    <a href="order.php" class="btn">order now</a>
                 </div>
             </div>
             <div class="box">
@@ -102,7 +105,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20burger%20please..." class="btn">order now</a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
+                <a href="order.php" class="btn">order now</a>
             </div>
             <div class="box">
                 <span class="price">price: $20</span>
@@ -115,7 +120,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20burger%20please..."" class="btn">order now</a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
+                <a href="order.php" class="btn">order now</a>
             </div>
             <div class="box">
                 <span class="price">price: $20</span>
@@ -128,7 +135,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20burger%20please..."" class="btn">order now</a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
+                <a href="order.php" class="btn">order now</a>
             </div>
             <div class="box">
                 <span class="price">price: $20</span>
@@ -141,8 +150,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20burger%20please..."" class="btn">order now</a>
-            </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
+                <a href="order.php" class="btn">order now</a>            </div>
             <div class="box">
                 <span class="price">price: $20</span>
                 <img src="images/content-pizza1.png" alt="">
@@ -154,8 +164,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20pizza%20please..."" class="btn">order now</a>
-            </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
+                <a href="order.php" class="btn">order now</a>            </div>
             <div class="box">
                 <span class="price">price: $20</span>
                 <img src="images/content-pizza2.png" alt="">
@@ -167,8 +178,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20pizza%20please..."" class="btn">order now</a>
-            </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
+                <a href="order.php" class="btn">order now</a>            </div>
             <div class="box">
                 <span class="price">price: $20</span>
                 <img src="images/content-pizza3.png" alt="">
@@ -180,7 +192,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20pizza%20please..."" class="btn">order now</a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
+                <a href="order.php" class="btn">order now</a>
             </div>
             <div class="box">
                 <span class="price">price: $20</span>
@@ -193,8 +207,9 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
-                <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20pizza%20please..."" class="btn">order now</a>
-            </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
+                <a href="order.php" class="btn">order now</a>            </div>
         </div>
     </section>
     <!-- Popular Section End -->
@@ -214,6 +229,8 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
                 <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20Ice%20Cream%20please..." class="btn">order now</a>
             </div>
             <div class="box">
@@ -227,6 +244,8 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
                 <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20Ice%20Cream%20please..."" class="btn">order now</a>
             </div>
             <div class="box">
@@ -240,6 +259,8 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
                 <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20Ice%20Cream%20please..."" class="btn">order now</a>
             </div>
             <div class="box">
@@ -253,6 +274,8 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
                 <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20Ice%20Cream%20please..."" class="btn">order now</a>
             </div>
             <div class="box">
@@ -266,6 +289,8 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
                 <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20Cocktail%20please..."" class="btn">order now</a>
             </div>
             <div class="box">
@@ -279,6 +304,8 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
                 <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20Cocktail%20please..."" class="btn">order now</a>
             </div>
             <div class="box">
@@ -292,6 +319,8 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p>
                 <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20Cocktail%20please..."" class="btn">order now</a>
             </div>
             <div class="box">
@@ -305,6 +334,8 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                 </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum similique vel expedita,
+                        quisquam nobis distinctio vero eum quod dolores quos.</p> 
                 <a href="https://wa.me/6285712933026?text=Hi%20I%20want%20to%20order%20a%20Cocktail%20please..."" class="btn">order now</a>
             </div>
         </div>
